@@ -1,4 +1,5 @@
 📊 AMS ATS Performance Dashboard (Power BI)
+
 🚀 Overview
 This project is an end-to-end Power BI dashboard designed to analyze technical support performance, customer satisfaction, and operational efficiency within an ATS (Advanced Technical Support) environment.
 The solution provides actionable insights for leadership by consolidating survey data, engineer performance metrics, and trend analysis into a single, interactive reporting experience.
@@ -90,7 +91,7 @@ Incomplete technical guidance
 
 
 🖼️ Dashboard Preview
-![Survey Dashboard](./survey.png) 
+![Survey Dashboard](./surveys.png) 
 
 💡 Why This Project Stands Out
 
